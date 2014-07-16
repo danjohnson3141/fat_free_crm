@@ -1,3 +1,12 @@
+I'm trying out Fat Free CRM as a possible alternative to an in-house developed CRM at work.
+
+Visit the site here
+http://fat-free-crm-3141.herokuapp.com/login
+* username: aaron
+* password: aaron
+
+####Fat Free CRM's README follows:
+=====
 # Fat Free CRM [![TravisCI][travis-img-url]][travis-ci-url]  [![Code Climate](https://codeclimate.com/github/fatfreecrm/fat_free_crm.png)](https://codeclimate.com/github/fatfreecrm/fat_free_crm)
 
 [travis-img-url]: https://secure.travis-ci.org/fatfreecrm/fat_free_crm.png?branch=master
